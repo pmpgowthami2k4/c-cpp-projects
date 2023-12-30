@@ -1,0 +1,15 @@
+Library Management System (LMS) in C++
+This is a console-based Library Management System implemented in C++. 
+The project provides basic functionalities for managing a library, including adding books, displaying the list of books, checking out and returning books, user authentication, and more.
+
+Features:
+User Authentication: Users can log in with a username and password.
+Book Management: Add, display, check out, and return books.
+Persistent Data Storage: Book and user data are stored in text files (books.txt and users.txt).
+Menu-Driven Interface: Users navigate the system through a simple menu.
+Screen Clearing: The screen is cleared after each user action for improved readability.
+
+How to Use:
+Compile the code using a C++ compiler.
+Run the executable file.
+Follow the on-screen prompts to navigate through the Library Management System.
